@@ -1,0 +1,15 @@
+# Wickra Time Machine
+
+> Scrub the whole crypto market like a video — every symbol, full orderbook, trades and funding, rewound to any moment and reconstructed in O(1) via deterministic re-fold, byte-identical across ten languages. Point it at a recorded universe, seek(t), and it re-folds every symbol's orderbook, tape and funding to the exact microstructure state — no snapshots, no interpolation.
+
+Wickra Time Machine folds recorded market feeds from wickra-exchange through the wickra-backtest replay engine, so seeking to any past timestamp reconstructs the exact microstructure state. A TimelineSpec can also name any of the 514 indicators of the Wickra core to evaluate at the reconstructed state. The core is reachable from Rust, Python, Node.js, WASM and — over a C ABI — C, C++, C#, Go, Java and R, plus a reference CLI. Released under the MIT OR Apache-2.0 license.
+
+## Source and packages
+- [GitHub](https://github.com/wickra-lib/wickra-timemachine): Source, issues, and releases.
+- [crates.io](https://crates.io/crates/wickra-timemachine): Rust crate.
+- [PyPI](https://pypi.org/project/wickra-timemachine/): Python package.
+- [npm](https://www.npmjs.com/package/wickra-timemachine): Node package.
+
+## Ecosystem
+- [Wickra](https://wickra.org): The core streaming-indicator library the ecosystem is built on.
+- [Docs](https://docs.wickra.org): Documentation for the Wickra core.
