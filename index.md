@@ -16,7 +16,7 @@ hero:
       link: https://github.com/wickra-lib/wickra-timemachine
     - theme: alt
       text: TimelineSpec & seek
-      link: https://github.com/wickra-lib/wickra-timemachine/blob/main/docs/SPEC.md
+      link: https://github.com/wickra-lib/wickra-timemachine/blob/main/docs/SEEK.md
     - theme: alt
       text: API
       link: /api/rust

@@ -21,4 +21,4 @@ println!("{:?}", snapshot);
 
 - [crates.io/crates/wickra-timemachine](https://crates.io/crates/wickra-timemachine) - [docs.rs](https://docs.rs/wickra-timemachine)
 - [Source & examples](https://github.com/wickra-lib/wickra-timemachine/tree/main/examples/rust)
-- [TimelineSpec & seek](https://github.com/wickra-lib/wickra-timemachine/blob/main/docs/SPEC.md)
+- [TimelineSpec & seek](https://github.com/wickra-lib/wickra-timemachine/blob/main/docs/SEEK.md)
