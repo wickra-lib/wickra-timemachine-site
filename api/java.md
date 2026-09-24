@@ -8,7 +8,7 @@ and drive it with `command(json) -> json`.
 <dependency>
   <groupId>org.wickra</groupId>
   <artifactId>wickra-timemachine</artifactId>
-  <version>0.1.3</version>
+  <version>0.1.4</version>
 </dependency>
 ```
 
