@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://timemachine.wickra.org"><img src="https://raw.githubusercontent.com/wickra-lib/.github/main/profile/wickra-banner.webp?v=514-7" alt="Wickra Time Machine — scrub the whole market like a video: every symbol, full order book, rewound to any moment by deterministic re-fold" width="100%"></a>
+  <a href="https://timemachine.wickra.org"><img src="https://raw.githubusercontent.com/wickra-lib/.github/main/profile/wickra-banner.svg?v=514-8" alt="Wickra Time Machine — scrub the whole market like a video: every symbol, full order book, rewound to any moment by deterministic re-fold" width="100%"></a>
 </p>
 
 [![Built on Wickra](https://raw.githubusercontent.com/wickra-lib/.github/main/profile/badges/wickra-timemachine-site/built-on.svg)](https://github.com/wickra-lib/wickra)
