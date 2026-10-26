@@ -33,7 +33,7 @@ features:
     details: "Reconstruction folds recorded feeds through the wickra-backtest replay engine in O(1), so seeking to any past timestamp yields the exact state and the same bytes every time."
   - icon: 📈
     title: Indicators at the reconstructed state
-    details: "A TimelineSpec can name any of the 514 indicators of the Wickra core, so a seek returns not just the raw book and tape but the indicator values as they stood at that instant."
+    details: "A TimelineSpec can name any of the 495 indicators the backtest registry resolves, so a seek returns not just the raw book and tape but the indicator values as they stood at that instant."
   - icon: 🌐
     title: Ten languages, one timeline
     details: "The core is a JSON-over-C-ABI data API (TimeMachine::command_json) in Rust, Python, Node.js, WASM, C, C++, C#, Go, Java and R. A developer in any language scrubs the same market."
@@ -128,7 +128,7 @@ reconstructs the byte-identical snapshot.
 Wickra Time Machine is part of the [Wickra](https://wickra.org) ecosystem. It
 folds recorded feeds from [`wickra-exchange`](https://github.com/wickra-lib/wickra-exchange)
 through the [`wickra-backtest`](https://github.com/wickra-lib/wickra-backtest)
-replay engine over the 514 indicators of
+replay engine over the 495 indicators its registry resolves from
 [`wickra-core`](https://github.com/wickra-lib/wickra) — the same numbers a live
 chart would show.
 

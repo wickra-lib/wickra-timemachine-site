@@ -16,7 +16,7 @@ byte-for-byte identical snapshot.
 - **O(1) deterministic re-fold.** Reconstruction folds recorded feeds through the
   `wickra-backtest` replay engine, so a seek is fast and reproducible.
 - **Indicators at the reconstructed state.** A `TimelineSpec` can name any of the
-  514 indicators of the Wickra core, so a seek returns the indicator values as they
+  495 indicators the backtest registry resolves, so a seek returns the indicator values as they
   stood, not just the raw book and tape.
 
 ## Why it exists
